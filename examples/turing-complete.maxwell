@@ -1,0 +1,44 @@
+monopole ∇· ∇× ∇² ∂E/∂t ∂D/∂t ∂B/∂t ∂H/∂t
+monopole | This is Rule 110 automaton.
+monopole | input one number : [n]
+monopole | input [n] numbers, that is either 0 or 1.
+
+∇²D + ∇²B + ∇·D + ∇×D + ∇²D = 0
+∇·H = 0
+∇²D + ∇·E - ∇×D - ∇·E + ∇×D + ∇²E + ∇·D + ∇²D = 0
+∇²H = ∂B/∂t
+∇²D + ∇·E + ∇×D + ∇×D + ∇²D = 0
+∇·H = 0
+∇²D + ∇·D + ∇×D + ∇²B + ∇²D = 0
+∇²H = ∂B/∂t
+∇²D + ∇·D + ∇·E + ∇·D + ∇×D = 0
+∇×H = 0
+∇·H = 0
+- ∇×H + ∇²D = 0
+∇·H = 0
+∇²D - ∇×D + ∇·E + ∇×D + ∇×D + ∇·E + ∇·E + ∇·E = 0
+- ∇×D + ∇×E - ∇·E - ∇·E + ∇×D - ∇·E - ∇·E - ∇×D = 0
+∇·D + ∇×D + ∇²D = 0
+∇²H = ∂B/∂t
+∇²D + ∇·E + ∇²D = 0
+∇·H = 0
+∇²D + ∇·D - ∇×D + ∇²D = 0
+∇²H = ∂B/∂t
+∇²D + ∇·E = 0
+∇·H = 0
+∇×D - ∇·D = 0
+∇²H = ∂B/∂t
+∇×D + ∇·D = 0
+∇·H = 0
+∇²D = 0
+∇²D + ∇·E - ∇×E + ∇²D = - ∂B/∂t
+∇²D + ∇·B + ∇·D + ∇×D = 0
+∇²H = ∂B/∂t
+- ∇·E - ∇·E - ∇·E - ∇·E - ∇·E - ∇·E - ∇·E = 0
+- ∇·E - ∇·E - ∇·E - ∇·E  = 0
+∇×B = 0
+∇·E + ∇·E + ∇·E + ∇·E + ∇·E + ∇·E + ∇·E = 0
+∇·E + ∇·E + ∇·E + ∇·E = 0
+∇·D + ∇×D = 0
+∇×H = 0
+∇²H = 0 monopole 무한반복됨
