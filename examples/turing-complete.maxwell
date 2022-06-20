@@ -1,7 +1,7 @@
 monopole ∇· ∇× ∇² ∂E/∂t ∂D/∂t ∂B/∂t ∂H/∂t
 monopole | This is Rule 110 automaton.
-monopole | input one number : [n]
-monopole | input [n] numbers, that is either 0 or 1.
+monopole | input : [n], [a_0, a_1, ..., a_n] (a_i is either 0 or 1)
+monopole | output : Rule 110
 
 ∇²D + ∇²B + ∇·D + ∇×D + ∇²D = 0
 ∇·H = 0
@@ -41,4 +41,4 @@ monopole | input [n] numbers, that is either 0 or 1.
 ∇·E + ∇·E + ∇·E + ∇·E = 0
 ∇·D + ∇×D = 0
 ∇×H = 0
-∇²H = 0 monopole 무한반복됨
+∇²H = 0 monopole infinite loop

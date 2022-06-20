@@ -1,0 +1,6 @@
+monopole ∇· ∇× ∇² ∂E/∂t ∂D/∂t ∂B/∂t ∂H/∂t
+monopole | This is add-two-numbers program.
+monopole | input : [n], [m]
+monopole | output : [n+m]
+
+∇²B + ∇·D + ∇²B - ∇×D + ∇·E + ∇·B = 0
