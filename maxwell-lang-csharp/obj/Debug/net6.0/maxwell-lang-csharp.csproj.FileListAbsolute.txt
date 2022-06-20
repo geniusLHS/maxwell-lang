@@ -1,0 +1,15 @@
+C:\Users\82109\Desktop\geniusLHS\maxwell-lang\maxwell-lang-csharp\bin\Debug\net6.0\maxwell-lang-csharp.exe
+C:\Users\82109\Desktop\geniusLHS\maxwell-lang\maxwell-lang-csharp\bin\Debug\net6.0\maxwell-lang-csharp.deps.json
+C:\Users\82109\Desktop\geniusLHS\maxwell-lang\maxwell-lang-csharp\bin\Debug\net6.0\maxwell-lang-csharp.runtimeconfig.json
+C:\Users\82109\Desktop\geniusLHS\maxwell-lang\maxwell-lang-csharp\bin\Debug\net6.0\maxwell-lang-csharp.dll
+C:\Users\82109\Desktop\geniusLHS\maxwell-lang\maxwell-lang-csharp\bin\Debug\net6.0\ref\maxwell-lang-csharp.dll
+C:\Users\82109\Desktop\geniusLHS\maxwell-lang\maxwell-lang-csharp\bin\Debug\net6.0\maxwell-lang-csharp.pdb
+C:\Users\82109\Desktop\geniusLHS\maxwell-lang\maxwell-lang-csharp\obj\Debug\net6.0\maxwell-lang-csharp.csproj.AssemblyReference.cache
+C:\Users\82109\Desktop\geniusLHS\maxwell-lang\maxwell-lang-csharp\obj\Debug\net6.0\maxwell-lang-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\82109\Desktop\geniusLHS\maxwell-lang\maxwell-lang-csharp\obj\Debug\net6.0\maxwell-lang-csharp.AssemblyInfoInputs.cache
+C:\Users\82109\Desktop\geniusLHS\maxwell-lang\maxwell-lang-csharp\obj\Debug\net6.0\maxwell-lang-csharp.AssemblyInfo.cs
+C:\Users\82109\Desktop\geniusLHS\maxwell-lang\maxwell-lang-csharp\obj\Debug\net6.0\maxwell-lang-csharp.csproj.CoreCompileInputs.cache
+C:\Users\82109\Desktop\geniusLHS\maxwell-lang\maxwell-lang-csharp\obj\Debug\net6.0\maxwell-lang-csharp.dll
+C:\Users\82109\Desktop\geniusLHS\maxwell-lang\maxwell-lang-csharp\obj\Debug\net6.0\ref\maxwell-lang-csharp.dll
+C:\Users\82109\Desktop\geniusLHS\maxwell-lang\maxwell-lang-csharp\obj\Debug\net6.0\maxwell-lang-csharp.pdb
+C:\Users\82109\Desktop\geniusLHS\maxwell-lang\maxwell-lang-csharp\obj\Debug\net6.0\maxwell-lang-csharp.genruntimeconfig.cache
