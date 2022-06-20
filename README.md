@@ -36,8 +36,8 @@ maxwell programming language
 ```
 ∇·E    : *ptr1 <- *ptr1 + *ptr2   ; pointer1이 가리키는 값을 pointer2가 가리키는 값만큼 증가
 -∇·E   : *ptr1 <- *ptr1 - *ptr2
-∇×E   : *ptr1 <- *ptr1 * *ptr2
--∇×E  : *ptr1 <- *ptr1 / *ptr2
+∇×E    : *ptr1 <- *ptr1 * *ptr2
+-∇×E   : *ptr1 <- *ptr1 / *ptr2
 ∇²E    : *ptr1 <-> *ptr2          ; pointer1이 가리키는 값과 pointer2가 가리키는 값을 서로 교환(swap)
 ```
 
@@ -46,8 +46,8 @@ maxwell programming language
 ```
 ∇·D    : ptr1 <- ptr1 + 1   ; pointer1을 1만큼 증가
 -∇·D   : ptr1 <- ptr1 - 1
-∇×D   : ptr2 <- ptr2 + 1
--∇×D  : ptr2 <- ptr2 - 1
+∇×D    : ptr2 <- ptr2 + 1
+-∇×D   : ptr2 <- ptr2 - 1
 ∇²D    : ptr1 <-> ptr2
 ```
 
@@ -55,7 +55,7 @@ maxwell programming language
 
 ```
 ∇·B    : *ptr1를 출력(숫자)
-∇×B   : *ptr1를 출력(문자 ; ASCII 코드)
+∇×B    : *ptr1를 출력(문자 ; ASCII 코드)
 ∇²B    : 콘솔에서 숫자를 입력받아 *ptr1 에 저장
 ```
 
@@ -65,8 +65,8 @@ h 또한 포인터이다. 처음에 0으로 초기화되어 있다.
 
 ```
 ∇·H    : 이 명령어가 적힌 줄의 번째수를 *h에 저장.
-∇×H   : h <- h + 1
--∇×H  : h <- h - 1
+∇×H    : h <- h + 1
+-∇×H   : h <- h - 1
 ∇²H    : *h 번째 줄로 이동.
 ```
 
@@ -81,7 +81,7 @@ h 또한 포인터이다. 처음에 0으로 초기화되어 있다.
 ∂D/∂t : ptr1 = ptr2
 ∂B/∂t : *ptr1>=0 : *ptr1이 0 이상이면 참, 다르면 거짓.
 ∂H/∂t : *h가 정의되었으면 참, 아니면 거짓.
-0       : 참
+0     : 참
 ```
 
 만약 조건문 앞에 `-`가 붙으면, 참 거짓이 반대로 바뀐다.(ex. `- ∂E/∂t` 은 `*ptr1`과 `*ptr2`이 같으면 거짓, 다르면 참.)<br>
